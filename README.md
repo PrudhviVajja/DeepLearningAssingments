@@ -11,3 +11,9 @@ Speech Denoising implementation using NN, CNN, (RNN, LSTM Coming soon.).
 #### [Homework2](https://github.com/PrudhviVajja/SpeechDenoising/blob/main/Homework2.ipynb):
 - Speech Denoising using Both 1D and 2D CNN's.
 - FineTuning CNN's for better accuracy.
+
+#### [Homework3](https://github.com/PrudhviVajja/SpeechDenoising/blob/main/Homework3.ipynb):
+- Network Compression Using SVD.
+- Speech Denoising Using RNN.
+
+
